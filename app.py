@@ -12,7 +12,6 @@ books = [{
 "price" : 40,
 "isbn" : 1235
 }]
-# Validate book object
 
 # route to Home directory
 @app.route('/')
